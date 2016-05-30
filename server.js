@@ -50,7 +50,7 @@ app.get('/api', function api_index(req, res) {
 });
 
 app.get('/api/artists', function album_index(req, res){
-db.Album.find({}, function(err, artists) {
+db.Profile.find({}, function(err, artists) {
 res.json(artists);
 })
 })
