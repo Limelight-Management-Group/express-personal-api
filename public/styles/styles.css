@@ -8,3 +8,17 @@ h1 {
   margin-top: 100px;
   text-align: center;
 }
+
+img {
+  display: center;
+  margin-left: 25px;
+  width: 1100px;
+  height: 600px;
+  border-radius: 16px;
+  opacity: .5;
+}
+
+#tagLine {
+  text-align: center;
+  font-size: 29px;
+}
