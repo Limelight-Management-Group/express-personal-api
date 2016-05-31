@@ -1,7 +1,7 @@
 body {
   color: #333;
   font-family: Helvetica, Arial, sans-serif;
-  background-color: skyblue; /* Sanity Check! */
+  background-color: black; /* Sanity Check! */
 }
 
 h1 {
@@ -15,10 +15,11 @@ img {
   width: 1100px;
   height: 600px;
   border-radius: 16px;
-  opacity: .5;
+  opacity: .3;
 }
 
 #tagLine {
   text-align: center;
   font-size: 29px;
+  color: lime;
 }
